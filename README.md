@@ -8,3 +8,5 @@ numpy，opencv，mss
     pip install numpy
     pip install opencv_python
     pip install mss==2.0.22
+    pip install image
+    pip install pynput
